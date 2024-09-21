@@ -1,1 +1,1 @@
-# clone of curracy conventer
+# clone of currnacy conventer
